@@ -1,4 +1,4 @@
-#Flask Emotion Detection Application
+# Flask Emotion Detection Application
 
 This is a Flask-based web application for detecting emotions in text using the Watson NLP Emotion Detection API. Users can input text and receive an analysis of the emotions associated with it, along with the dominant emotion.
 
